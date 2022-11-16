@@ -1,4 +1,4 @@
-# HTML-Revision-
+# HTML REVISION
 Here we will get everything about HTML
 
 <h1>HTML</h1>
