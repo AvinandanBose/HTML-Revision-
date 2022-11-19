@@ -24,6 +24,41 @@ Here we will get everything about HTML
 <h3><li>HTML 5→ Refers to the latest version of HTML , which was released in October 2009. HTML5 introduces a number of new elements and attributes such as AUDIO, VIDEO, and contentEditable , which allows us to create more interactive Web applications and websites.</li></h3>
 
 </ul>
+<h1>FUNDAMENTALS OF HTML</h1>
+ 
+  <h3><li><ins>HTML TAGs</ins>: HTML is written in form of TAGs , which are pair of angle brackets(< and >) and some text placed between these angle brackets. The text present between a pair of angle brackets defines an HTML elements. </center></h3>
+ 
+<h3><li><ins>HTML Elements</ins> : Elements are building blocks of an HTML document. The browser interprets an HTML document on the basis of the element types that are added in the document. As a result, an HTML document is displayed with all the properties specified by the elements embedded in it. </li></h3>
+<h3> <center>The Structure of HTML ELEMENT : 1)An Opening/Starting TAG , 2) A Closing / Ending TAG, and 3) The content of the element enclosed between opening and closing TAG. Properties of Html Elements : 1)Attributes and 2) Content. </center></h3>
+ 
+ ```Syntax
+ 
+ <p> This is my first paragraph. </p>
+ 
+ <p>→ It is the Opening TAG.
+  
+ </p>→It is the closing TAG.
+ 
+ This is my first paragraph →The content of the element enclosed between opening and closing TAG.
+ 
+ ```
+ 
 
+ 
+  <h3><li><ins>ATTRIBUTES of ELEMENTS</ins>: The Attributes of an HTML element are placed within the opening tag(after the element's name)  . Most of the HTML attributes are name-value pairs, seperated by '=' sign. However , some attributes such as <i>ismap</i> attribute of the <i><img></i> element is written without specifying a value for it.Attribute values should be enclosed within either single or double quotes.</center></h3>
+ 
+  ```Syntax
+ Example :
+ 
+ <p id = 'example' , lang="en"> This is an example of HTML </p>
+ 
+ Here,
+ 
+ Attributes: id , lang
+ 
+ Value of Attributes : example , en
+ 
+ ```
+ 
 </ul>
  
