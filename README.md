@@ -45,7 +45,7 @@ Here we will get everything about HTML
  
 
  
-  <h3><li><ins>ATTRIBUTES of ELEMENTS</ins>: The Attributes of an HTML element are placed within the opening tag(after the element's name)  . Most of the HTML attributes are name-value pairs, seperated by '=' sign. However , some attributes such as <i>ismap</i> attribute of the <i><img></i> element is written without specifying a value for it.Attribute values should be enclosed within either single or double quotes.</center></h3>
+  <h3><li><ins>ATTRIBUTES of ELEMENTS</ins>: The Attributes of an HTML element are placed within the opening tag(after the element's name)  . Most of the HTML attributes are name-value pairs, seperated by '=' sign. However , some attributes such as <i>ismap</i> attribute of the <i> img </i> element is written without specifying a value for it.Attribute values should be enclosed within either single or double quotes.</center></h3>
  
   ```Syntax
  Example :
