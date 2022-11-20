@@ -68,7 +68,7 @@ Here we will get everything about HTML
 ```
 
 <ul>
-<h3> The !DOCTYPE element is the first element is the HTML document, which specifies the Document Type Definition (DTD) used by the document. A DTD is a seperate file containing formal definition of grammar, such as supported elements and attributes used in markup language. The browser checks the code of the document against the rules in the !DOCTYPE declaration. The <!DOCTYPE> doesnot have a closing tag. </h3>
+<h3> The !DOCTYPE element is the first element is the HTML document, which specifies the Document Type Definition (DTD) used by the document. A DTD is a seperate file containing formal definition of grammar, such as supported elements and attributes used in markup language. The browser checks the code of the document against the rules in the !DOCTYPE declaration. The !DOCTYPE doesnot have a closing tag. </h3>
 
 ```Syntax
  Example :
