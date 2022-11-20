@@ -42,10 +42,7 @@ Here we will get everything about HTML
  This is my first paragraph →The content of the element enclosed between opening and closing TAG.
  
  ```
- 
-
- 
-  <h3><li><ins>ATTRIBUTES of ELEMENTS</ins>: The Attributes of an HTML element are placed within the opening tag(after the element's name)  . Most of the HTML attributes are name-value pairs, seperated by '=' sign. However , some attributes such as <i>ismap</i> attribute of the <i> img </i> element is written without specifying a value for it.Attribute values should be enclosed within either single or double quotes.</center></h3>
+ <h3><li><ins>ATTRIBUTES of ELEMENTS</ins>: The Attributes of an HTML element are placed within the opening tag(after the element's name)  . Most of the HTML attributes are name-value pairs, seperated by '=' sign. However , some attributes such as <i>ismap</i> attribute of the <i> img </i> element is written without specifying a value for it.Attribute values should be enclosed within either single or double quotes.</center></h3>
  
   ```Syntax
  Example :
@@ -61,4 +58,24 @@ Here we will get everything about HTML
  ```
  
 </ul>
+
+<h1>   Begining of HTML Document </h1>
+
+```Syntax
+
+1. The <!DOCTYPE> ELEMENT 
+
+```
+
+<ul>
+<h3> The !DOCTYPE element is the first element is the HTML document, which specifies the Document Type Definition (DTD) used by the document. A DTD is a seperate file containing formal definition of grammar, such as supported elements and attributes used in markup language. The browser checks the code of the document against the rules in the !DOCTYPE declaration. The <!DOCTYPE> doesnot have a closing tag. </h3>
+
+```Syntax
+ Example :
+ 
+<!DOCTYPE html>
+ 
+ ```
+
+</ul> 
  
