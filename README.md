@@ -59,7 +59,7 @@ Here we will get everything about HTML
  
 </ul>
 
-<h1>   Begining of HTML Document </h1>
+<h1>   Begining of HTML Document [Root Elements]</h1>
 
 ```Syntax
 
