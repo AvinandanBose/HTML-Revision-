@@ -59,6 +59,21 @@ Here we will get everything about HTML
  
 </ul>
 
+<h1> Categories of HTML Elements </h1>
+<ul>
+<h3>HTML elements are predefined , which means we cannot create our own tags and must use these predefined tags only. HTML elements are categorized into the following types: </h3> 
+ <ul>
+ <h3><li>Root </li></h3> 
+  <h3><li>Metadata </li></h3> 
+  <h3><li>Section</li></h3> 
+  <h3><li>Heading</li></h3> 
+  <h3><li>Flow</li></h3> 
+  <h3><li>Phrasing</li></h3> 
+  <h3><li>Embedded</li></h3> 
+  <h3><li>Interactive</li></h3>
+ </ul>
+</ul>
+
 <h1>   Begining of HTML Document [Root Elements]</h1>
 
 ```Syntax
