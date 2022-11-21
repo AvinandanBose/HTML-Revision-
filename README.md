@@ -104,12 +104,17 @@ Here we will get everything about HTML
 
 ```Syntax
  Example :
- 
+#------------------------------
 <!DOCTYPE html>
-<html lang="en" class="html_class" dir="rtl" id="1" version="1" xmlns="http://www.w3.org/1999/xhtml" >
+
+<html lang="en" class="html_class" dir="rtl" id="1" version="1" xmlns="http://www.w3.org/1999/xhtml"
+manifest="demo.appcache" draggable="true" contextmenu="mymenu" hidden="true" spellcheck="true" tabindex="1"
+style="color: red;" title="MyTitle" accesskey="char" xml:lang="en">
+
 
 </html>
 
+#----------------------------------
 
 class : Represents the class of the element.
 
@@ -125,7 +130,29 @@ version : Represents the version of the language used.
 #This attribute has been marked as deprecated.
 
 xmlns : Declares a XML namespace for custom tags in an HTML document. 
- 
+
+xml:lang : Specifies base language used for an element in the eXtensible Hypertext Markup Language(XHTML) documents
+
+manifest : Define a URL(Universal Resource Locator) containing the document's cache information.
+#This attribute is depreciated
+
+contenteditable : Specifies whether content is editatble or not.
+
+contextmenu : Specifies context menu for a specific element.
+
+draggable : Specifies whether or not we can drag an element.
+
+accesskey : Specifies keyboard shortcut to access an element.
+
+hidden : Declares an element as a hidden element. Hidden elements are not displayed in the document.
+
+spellcheck : Specifies whether an element should be checked for spelling and grammar or not.
+
+tabindex: Specifies taborder index of an element.
+
+style : Specifies inline style in the HTML document by using <style> element.
+
+title: Specifies title of an HTML document.
  ```
 </ul>
 
