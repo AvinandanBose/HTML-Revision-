@@ -94,3 +94,38 @@ Here we will get everything about HTML
 
 </ul> 
  
+ ```Syntax
+
+2. The <HTML> ELEMENT 
+
+```
+<ul>
+<h3> The <i>html</i> element starts an HTML document and it comes after the !DOCTYPE  element in an HTML document. It contains everything an HTML document contains except the !DOCTYPE element. </h3>
+
+```Syntax
+ Example :
+ 
+<!DOCTYPE html>
+<html lang="en" class="html_class" dir="rtl" id="1" version="1" xmlns="http://www.w3.org/1999/xhtml" >
+
+</html>
+
+
+class : Represents the class of the element.
+
+dir : Give the direction to directionally neutral text; 
+We can set this attribute to ltr for left to right direction or
+rtl for right to left text direction.
+
+id : Represents unique alphanumeric identifier for the element.
+
+lang : Represents base language use for the element.
+
+version : Represents the version of the language used.
+#This attribute has been marked as deprecated.
+
+xmlns : Declares a XML namespace for custom tags in an HTML document. 
+ 
+ ```
+</ul>
+
