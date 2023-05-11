@@ -1,7 +1,7 @@
 # HTML REVISION
 Here we will get everything about HTML
 
-<h1>HTML</h1>
+<h1 align="Center">HTML</h1>
 <h2>Introduction</h2>
 <h3> HTML is a makup language commonly used to create Web pages.HTML is developed and maintained by <ins>World Wide Web consortium(W3C)</ins> .</h3>
 <ul>
