@@ -1,6 +1,6 @@
 
 <h1 align="Center">HTML</h1>
-<h2>Introduction</h2>
+<h1>Introduction</h1>
 <h3> HTML is a makup language commonly used to create Web pages.HTML is developed and maintained by <ins>World Wide Web consortium(W3C)</ins> .</h3>
 <ul>
 <h3><li> <ins>Markup Language :</ins> A markup language provides a way to describe the structure of text and graphics on a Web page. HTML is derived from a general markup language called Standard Generalized Markup Language (SGML) , which is an International Organization for Standardization(ISO) technology that defines markup languages.</li></h3>
@@ -22,6 +22,8 @@
 <h3><li>HTML 5→ Refers to the latest version of HTML , which was released in October 2009. HTML5 introduces a number of new elements and attributes such as AUDIO, VIDEO, and contentEditable , which allows us to create more interactive Web applications and websites.</li></h3>
 
 </ul>
+ 
+ <h1></h1>
 <h1>FUNDAMENTALS OF HTML</h1>
  
   <h3><li><ins>HTML TAGs</ins>: HTML is written in form of TAGs , which are pair of angle brackets(< and >) and some text placed between these angle brackets. The text present between a pair of angle brackets defines an HTML elements. </center></h3>
