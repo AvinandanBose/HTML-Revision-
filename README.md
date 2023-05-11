@@ -1,5 +1,3 @@
-# HTML REVISION
-Here we will get everything about HTML
 
 <h1 align="Center">HTML</h1>
 <h2>Introduction</h2>
