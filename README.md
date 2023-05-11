@@ -76,11 +76,14 @@ Here we will get everything about HTML
 
 <h1>   Begining of HTML Document [Root Elements]</h1>
 
+<h2>
+
 ```Syntax
 
 1. The <!DOCTYPE> ELEMENT 
 
 ```
+</h2>
 
 <ul>
 <h3> The !DOCTYPE element is the first element is the HTML document, which specifies the Document Type Definition (DTD) used by the document. A DTD is a seperate file containing formal definition of grammar, such as supported elements and attributes used in markup language. The browser checks the code of the document against the rules in the !DOCTYPE declaration. The !DOCTYPE doesnot have a closing tag. </h3>
@@ -94,65 +97,112 @@ Here we will get everything about HTML
 
 </ul> 
  
- ```Syntax
+<h2>
+ 
+```Syntax
 
 2. The <HTML> ELEMENT 
 
 ```
+</h2>
+ 
 <ul>
 <h3> The <i>html</i> element starts an HTML document and it comes after the !DOCTYPE  element in an HTML document. It contains everything an HTML document contains except the !DOCTYPE element. </h3>
-
+ 
+ 
 ```Syntax
  Example :
 #------------------------------
-<!DOCTYPE html>
-
+ 
 <html lang="en" class="html_class" dir="rtl" id="1" version="1" xmlns="http://www.w3.org/1999/xhtml"
 manifest="demo.appcache" draggable="true" contextmenu="mymenu" hidden="true" spellcheck="true" tabindex="1"
 style="color: red;" title="MyTitle" accesskey="char" xml:lang="en">
-
-
+ 
 </html>
 
 #----------------------------------
-
-class : Represents the class of the element.
-
-dir : Give the direction to directionally neutral text; 
+ 
+```
+ 
+<table>
+  <tr>
+    <th>Attribute</th>
+    <th>Explanation</th>
+  </tr>
+  <tr>
+    <td>class</td>
+    <td>Represents the class of the element.</td>
+  </tr>
+  <tr>
+    <td>dir</td>
+    <td>Give the direction to directionally neutral text; 
 We can set this attribute to ltr for left to right direction or
-rtl for right to left text direction.
+rtl for right to left text direction.</td>
+  </tr>
+   <tr>
+    <td>id</td>
+    <td> Represents unique alphanumeric identifier for the element.</td>
+  </tr>
+   <tr>
+    <td>lang</td>
+    <td> Represents base language use for the element.</td>
+  </tr>
+ <tr>
+    <td>version</td>
+    <td> Represents the version of the language used.
+#This attribute has been marked as deprecated.</td>
+  </tr>
+  <tr>
+    <td>xmlns</td>
+    <td> Declares a XML namespace for custom tags in an HTML document. </td>
+  </tr>
+   <tr>
+    <td>xml:lang</td>
+    <td> Specifies base language used for an element in the eXtensible Hypertext Markup Language(XHTML) documents. </td>
+  </tr>
+ <tr>
+    <td>manifest</td>
+    <td> Define a URL(Universal Resource Locator) containing the document's cache information.
+#This attribute is depreciated.</td>
+  </tr>
+  <tr>
+    <td>contenteditable</td>
+    <td> Specifies whether content is editatble or not.</td>
+  </tr>
+ <tr>
+    <td>contextmenu</td>
+    <td> Specifies context menu for a specific element.</td>
+  </tr>
+  <tr>
+    <td>draggable</td>
+    <td> Specifies whether or not we can drag an element.</td>
+  </tr>
+ <tr>
+    <td>accesskey</td>
+    <td> Specifies keyboard shortcut to access an element.</td>
+  </tr>
+  <tr>
+    <td>hidden</td>
+    <td>Declares an element as a hidden element. Hidden elements are not displayed in the document.</td>
+  </tr>
+ <tr>
+    <td>spellcheck</td>
+    <td>Specifies whether an element should be checked for spelling and grammar or not.</td>
+  </tr>
+ <tr>
+    <td>tabindex</td>
+    <td>Specifies taborder index of an element.</td>
+  </tr>
+ <tr>
+    <td>style</td>
+    <td>Specifies inline style in the HTML document by using <style> element.</td>
+  </tr>
+ <tr>
+    <td>title</td>
+    <td>Specifies title of an HTML document.</td>
+  </tr>
+</table>
 
-id : Represents unique alphanumeric identifier for the element.
 
-lang : Represents base language use for the element.
-
-version : Represents the version of the language used.
-#This attribute has been marked as deprecated.
-
-xmlns : Declares a XML namespace for custom tags in an HTML document. 
-
-xml:lang : Specifies base language used for an element in the eXtensible Hypertext Markup Language(XHTML) documents
-
-manifest : Define a URL(Universal Resource Locator) containing the document's cache information.
-#This attribute is depreciated
-
-contenteditable : Specifies whether content is editatble or not.
-
-contextmenu : Specifies context menu for a specific element.
-
-draggable : Specifies whether or not we can drag an element.
-
-accesskey : Specifies keyboard shortcut to access an element.
-
-hidden : Declares an element as a hidden element. Hidden elements are not displayed in the document.
-
-spellcheck : Specifies whether an element should be checked for spelling and grammar or not.
-
-tabindex: Specifies taborder index of an element.
-
-style : Specifies inline style in the HTML document by using <style> element.
-
-title: Specifies title of an HTML document.
- ```
 </ul>
 
